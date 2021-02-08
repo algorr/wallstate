@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304793672238",
+    "project_id": "wallstate",
+    "storage_bucket": "wallstate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304793672238:android:37c9349034c5124d32ddbf",
+        "android_client_info": {
+          "package_name": "com.annepedia.wallstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304793672238-unfbfgjcuvmjidkkm49ojv5hmr4thhf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.annepedia.wallstate",
+            "certificate_hash": "cf09a127f61402cfc433a17e356185016c8b3951"
+          }
+        },
+        {
+          "client_id": "304793672238-tp6ba37d1j2s01l93j8a37jaosll2d6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirimZoJ5k-BjgE4TXcSxQbYICP4yXgVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304793672238-tp6ba37d1j2s01l93j8a37jaosll2d6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
